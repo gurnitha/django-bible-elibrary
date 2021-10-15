@@ -69,6 +69,16 @@ Github:https://github.com/gurnitha/django-bible-elibrary
         new file:   templates/base_layout.html
         new file:   templates/includes/navbar.html
 
+<a href="https://github.com/gurnitha/django-bible-elibrary/commit/ff33aff1dfb8c8a2eed6c5daf83db74a4e9f1aa7" target="_blank">Codes changed</a>
+
+
+#### 7. Login page basic TVUrls
+
+        modified:   README.md
+        modified:   app/accounts/urls.py
+        modified:   app/accounts/views.py
+        new file:   templates/accounts/login.html
+
 
 
 

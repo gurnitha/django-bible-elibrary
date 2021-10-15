@@ -8,6 +8,7 @@ from django.http import HttpResponse
 
 # Create your views here.
 
+# Register view
 def register_view(request):
 	# If the user is not authenticated
 	if not request.user.is_authenticated:
@@ -61,3 +62,8 @@ def register_view(request):
 				return redirect('accounts:register')
 
 	return render(request, 'accounts/register.html')
+
+
+# Login view
+def login_view(request):
+	return render(request, 'accounts/login.html')
