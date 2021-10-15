@@ -20,16 +20,25 @@ Github:https://github.com/gurnitha/django-bible-elibrary
         new file:   core/wsgi.py
         new file:   manage.py
 
+Setup codes:
+https://github.com/gurnitha/django-bible-elibrary/commit/54a0fee2e4ca17bca8f48de0fdab25a11f0fadfd
+
 
 #### 2. Gihub repository
 
         new file:   README.md
-        
+
 Github:https://github.com/gurnitha/django-bible-elibrary
 
 
+#### 3. Basic register page (TVUrls)
 
-
+        modified:   README.md
+        new file:   app/accounts/urls.py
+        modified:   app/accounts/views.py
+        modified:   core/settings.py
+        modified:   core/urls.py
+        new file:   templates/accounts/register.html
 
 
 
