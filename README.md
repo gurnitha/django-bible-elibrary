@@ -59,6 +59,15 @@ Github:https://github.com/gurnitha/django-bible-elibrary
         modified:   core/settings.py
         modified:   templates/accounts/register.html
 
+<a href="https://github.com/gurnitha/django-bible-elibrary/commit/d3b95fc5e8567fc2ff3e34242ac1cf555df650e4" target="_blank">Codes changed</a>
+
+
+#### 6. Template inheritance - Create base_layout and use it with register page
+
+        modified:   README.md
+        modified:   templates/accounts/register.html
+        new file:   templates/base_layout.html
+        new file:   templates/includes/navbar.html
 
 
 
