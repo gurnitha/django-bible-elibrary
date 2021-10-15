@@ -20,8 +20,8 @@ Github:https://github.com/gurnitha/django-bible-elibrary
         new file:   core/wsgi.py
         new file:   manage.py
 
-Setup codes:
-https://github.com/gurnitha/django-bible-elibrary/commit/54a0fee2e4ca17bca8f48de0fdab25a11f0fadfd
+<a href="https://github.com/gurnitha/django-bible-elibrary/commit/54a0fee2e4ca17bca8f48de0fdab25a11f0fadfd" target="_blank">Setup codes</a>
+
 
 
 #### 2. Gihub repository
@@ -39,6 +39,15 @@ Github:https://github.com/gurnitha/django-bible-elibrary
         modified:   core/settings.py
         modified:   core/urls.py
         new file:   templates/accounts/register.html
+
+<a href="https://github.com/gurnitha/django-bible-elibrary/commit/8a14de1fd59bf58a1339d0f8b9da7c67f3956229" target="_blank">Codes changed</a>
+
+
+#### 4. Adding form template to register page
+
+        modified:   README.md
+        new file:   templates/accounts/register.html
+
 
 
 
