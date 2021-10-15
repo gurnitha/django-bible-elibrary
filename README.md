@@ -28,7 +28,8 @@ Github:https://github.com/gurnitha/django-bible-elibrary
 
         new file:   README.md
 
-Github:https://github.com/gurnitha/django-bible-elibrary
+<a href="https://github.com/gurnitha/django-bible-elibrary" target="_blank">Github repository</a>
+
 
 
 #### 3. Basic register page (TVUrls)
@@ -48,11 +49,15 @@ Github:https://github.com/gurnitha/django-bible-elibrary
         modified:   README.md
         new file:   templates/accounts/register.html
 
+<a href="https://github.com/gurnitha/django-bible-elibrary/commit/61fb593fe6e92952c0497f4855f4af92e33fd6b7" target="_blank">Codes changed</a>
 
 
+#### 5. From template and views register user
 
-
-
+        modified:   README.md
+        modified:   app/accounts/views.py
+        modified:   core/settings.py
+        modified:   templates/accounts/register.html
 
 
 
